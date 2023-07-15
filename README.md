@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kirubel</h1>
 <h3 align="center">A passionate Full Stack developer from Ethiopia</h3>
-<img align="right" alt="coding gif" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<img align="right" alt="coding gif" width="400" src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 - 🔭 I’m currently working on **AskEthio**
 
